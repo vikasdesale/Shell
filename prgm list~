@@ -1,0 +1,13 @@
+1.finding exe files                                  :->finding.sh
+2.reversing last 5 command from history              :->hisrev.sh
+3.copying file to desktop                            :->filecpy.sh
+4.Sorting file content from one file to another      :->sort.sh
+5.deleting empty files                               :->del.sh
+6.displaying last 3 lines from a text file           :->last5.sh
+7.displaying current file with  permissions          :->listWper.sh
+8.display all files in current directory             :->Program1.sh
+9.reversing content of file                          :->reverse.sh
+10.finding words that starts with 'a'and end with'e' :->startnend.sh
+11.making tar file of a text file                    :->tarp.sh
+12.Displaying with awk command                       :->awk.sh
+13.Displaying with sed command                       :->sed.sh

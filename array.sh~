@@ -1,0 +1,9 @@
+arrayN = (5,4,1,2)
+max=$ { arrayN [0] }
+for i in " $ (arrayN [0] ) "
+do
+if ["$i;"-gt"$max"];then
+max="$i"
+done
+echo "max is : $max"
+
